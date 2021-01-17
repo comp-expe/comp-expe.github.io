@@ -7,7 +7,7 @@
 
 An HTML/CSS website template perfect for a small academic conference. 
 It's simple and easy to use, to contrast with something slicker but cumbersome like [hoverboard](https://github.com/gdg-x/hoverboard). 
-You can [explore it live here](https://mikepierce.github.io/conference-website-template/).
+You can [explore it live here](https://comp-expe.github.io/).
 
 ## Installation
 
